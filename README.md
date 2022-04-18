@@ -1,7 +1,11 @@
-# Nextcloud Server ☁
+# Rustcloud Server ☁
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nextcloud/server/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nextcloud/server/?branch=master)
 [![codecov](https://codecov.io/gh/nextcloud/server/branch/master/graph/badge.svg)](https://codecov.io/gh/nextcloud/server)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/209/badge)](https://bestpractices.coreinfrastructure.org/projects/209)
+
+## WTF is Rustcloud?
+
+* Rust cloud is an attempt by me, a novice, to slowly but surely implement new skills that I acquire in Rust to replace the functionality of the server side of nextcloud with a more modern language.  I don't expect this to work for a while, if i ever get it working at all.  and even if I do, i don't ever expect its going to be good.  use the original nextcloud.
 
 **A safe home for all your data.**
 
